@@ -2,7 +2,7 @@ The repository comprises the projects / assignments undertaken as a component of
 
 Alzheimer's Disease report aim is to investigate the relationship between those characteristics and the diagnosis, i.e., Alzheimer (Demented) or not (Nondemented) in the given data set.
 
-Crime Statistics In Dallas is the overview of crime incidents reported in Dallas in the year2016.
+Crime Statistics In Dallas is the overview of crime incidents reported in Dallas in the year 2016.
 
 Execuable Decision Trees is the final dissertation project which is a ML model deployment tool. The Project parses a CSV file to generate a Decision Tree using the CART algorithm. The Decision Trees are later trans compiled into C/C++ for execution in the POSIX environment. The Other target supported was Jar format by generating byte code using Apache BCEL.
 
