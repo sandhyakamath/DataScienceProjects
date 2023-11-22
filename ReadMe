@@ -1,7 +1,6 @@
 The repository comprises the projects / assignments undertaken as a component of the Master of Science program in Applied Data Science.
 
-Alzheimer's Disease report aim is to investigate the relationship between those characteristics and the diagnosis, i.e., Alzheimer (Demented) or not (Nondemented).
-in a given data set.
+Alzheimer's Disease report aim is to investigate the relationship between those characteristics and the diagnosis, i.e., Alzheimer (Demented) or not (Nondemented) in the given data set.
 
 Crime Statistics In Dallas is the overview of crime incidents reported in Dallas in the year2016.
 
@@ -9,5 +8,4 @@ Execuable Decision Trees is the final dissertation project which is a ML model d
 
 King Lear report is about to do a sentiment analysis based on the dialogue between The King Lear and his youngest daughter, Cordelia.
 
-Sales Prediction report is a summary of a list of activities undertaken to do the sales forecasting with the procured data from the M/S Kambar Fireworks which is a wholesale / retail sole proprietorship concern
-incorporated in Kerala, India.
+Sales Prediction report is a summary of a list of activities undertaken to do the sales forecasting with the procured data from the M/S Kambar Fireworks which is a wholesale / retail sole proprietorship concern incorporated in Kerala, India.
